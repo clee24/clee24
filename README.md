@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Global and International Studies + Data Science at the College of Wooster
 - 💞️ I’m looking to collaborate on anything with cool people
 - 📫 How to reach me | clee24@wooster.edu
+- 🏡 Website | https://clee24.github.io/
 
 <!---
 clee24/clee24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
