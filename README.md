@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @clee24
+- 👋 Hi, I’m Chris Lee
 - 👀 I’m interested in volleyball and learning applications of programming
-- 🌱 I’m currently learning Global and International Studies + Data Science at the College of Wooster
-- 💞️ I’m looking to collaborate on anything with cool people
+- 🌱 I’m currently learning Global and International Studies + Computer Science at the College of Wooster
+- 💞️ I’m looking to collaborate on stuff with cool people
 - 📫 How to reach me | clee24@wooster.edu
 - 🏡 Website | https://clee24.github.io/
 
