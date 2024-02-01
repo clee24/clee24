@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chris Lee
+- 👋 Hi, I’m Chris
 - 👀 I’m interested in volleyball and learning applications of programming
 - 🌱 I’m currently learning Computer Science & Economics at the College of Wooster
 
